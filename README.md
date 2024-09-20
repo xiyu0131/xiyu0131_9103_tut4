@@ -7,11 +7,9 @@ First repository ever made.
 **Examples** 
 *Two examples are used to illustrate the raindrop effect.* 
 
-### unordered list
--item1
--item2
-    -1.1
-    -1.2
+#### Example list
+1. The Matrix
+2. The Silent Hill
 
 ### ordered list
 1. Item1
