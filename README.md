@@ -18,4 +18,4 @@ First repository ever made.
 
 ### link importing
 [A link to Silent Hill wikipedia](https://en.wikipedia.org/wiki/Silent_Hill#:~:text=Silent%20Hill[a]%20(Japanese:%20%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB,%20Hepburn:%20Sairento%20Hiru)%20is%20a%20horror)
-![The image of Silent Hill](file:///C:/Users/xiaoy/OneDrive/Desktop/Creative%20Coding/WK8/xiyu0131_9103_tut4/image%20of%20silent%20hill.png)
+![The image of Silent Hill](https://images.app.goo.gl/gv4DhiG8s16RBoR89)
