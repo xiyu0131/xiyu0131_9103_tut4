@@ -2,9 +2,10 @@
 First repository ever made.
 100% hand-made lol
 
-## This is the headline.
-**Bold Text testing** 
-*Italic text testing* 
+## Targeting drawing technique: Raindrop effect
+
+**Examples** 
+*Two examples are used to illustrate the raindrop effect.* 
 
 ### unordered list
 -item1
