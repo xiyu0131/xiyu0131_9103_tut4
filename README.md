@@ -11,9 +11,10 @@ First repository ever made.
 1. The Matrix
 2. The Silent Hill
 
-### ordered list
-1. Item1
-2. Item2
+#### Why these examples are chosen
+-These two films are both very famous and successful.
+-In the matrix example, the raindrops on the window not only look aesthetic, but also enhances the moody atmosphere in that scene.
+-In the silent hill example, the raindrops increase the sense of immersion. Also, they made a distinguish between the raindrops on shoulder, in the background, and on the screen.
 
 ### link importing
 
