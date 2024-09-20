@@ -31,7 +31,14 @@ First repository ever made.
 ![The image from the Matrix](https://preview.redd.it/vwowk8er2r421.jpg?width=640&crop=smart&auto=webp&s=ae213afff52975b42eb4e0a4b034c48d6b4f78ed)
 ![The image from the Silent Hill](readmeimages/trianglehead.png)
 
-### code
+## Exploring Coding Technique
+
+#### Drawing waterdrops using WebGL by Lucas Bebber
+>I found an example code on Github. Here is the link to this repository. 
+[A link to example code](https://github.com/codrops/RainEffect.git) 
+And here is a demo they made using this technique. In the demo, you can see that the raindrops look incredibly real.
+[A link to demo](https://tympanus.net/Development/RainEffect/)
+
 ```
 function helloworld(){
     console.log("Hello World!");
