@@ -17,9 +17,11 @@ First repository ever made.
 2. Item2
 
 ### link importing
+
 [A link to Silent Hill wikipedia](https://en.wikipedia.org/wiki/Silent_Hill#:~:text=Silent%20Hill[a]%20(Japanese:%20%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB,%20Hepburn:%20Sairento%20Hiru)%20is%20a%20horror)
-![The image of Silent Hill](https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/03/return-to-silent-hill-still-image.jpg)
-![image of triangle head](readmeimages/trianglehead.png)
+
+![The image from the Matrix](https://preview.redd.it/vwowk8er2r421.jpg?width=640&crop=smart&auto=webp&s=ae213afff52975b42eb4e0a4b034c48d6b4f78ed)
+![The image from the Silent Hill](readmeimages/trianglehead.png)
 
 ### code
 ```
