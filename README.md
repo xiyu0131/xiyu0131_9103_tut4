@@ -18,8 +18,9 @@ First repository ever made.
 
 #### Wikipedia links to these two films
 
-[A link to the Matrix Wikipedia](https://en.wikipedia.org/wiki/The_Matrix#:~:text=The%20Matrix%20is%20a%201999%20science%20fiction%20action%20film%20[5]#:~:text=The%20Matrix%20is%20a%201999%20science%20fiction%20action%20film%20[5])
-[A link to Silent Hill wikipedia](https://en.wikipedia.org/wiki/Silent_Hill#:~:text=Silent%20Hill[a]%20(Japanese:%20%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB,%20Hepburn:%20Sairento%20Hiru)%20is%20a%20horror)
+1.[A link to the Matrix Wikipedia](https://en.wikipedia.org/wiki/The_Matrix#:~:text=The%20Matrix%20is%20a%201999%20science%20fiction%20action%20film%20[5]#:~:text=The%20Matrix%20is%20a%201999%20science%20fiction%20action%20film%20[5])
+
+2.[A link to Silent Hill wikipedia](https://en.wikipedia.org/wiki/Silent_Hill#:~:text=Silent%20Hill[a]%20(Japanese:%20%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB,%20Hepburn:%20Sairento%20Hiru)%20is%20a%20horror)
 
 
 #### Image of Examples
