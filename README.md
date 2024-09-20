@@ -39,10 +39,9 @@ First repository ever made.
 And here is a demo they made using this technique. In the demo, you can see that the raindrops look incredibly real.
 [A link to demo](https://tympanus.net/Development/RainEffect/)
 
-```
-function helloworld(){
-    console.log("Hello World!");
-}
-```
+#### Using noise() 
+>When the falling speed is fast, the whole background will look blurred.This noise function can be used to randomize the tracks of raindrops falling. 
 
-> What is blockquote?
+```
+noise();
+```
