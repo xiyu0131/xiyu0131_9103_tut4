@@ -4,6 +4,10 @@ First repository ever made.
 
 ## Targeting drawing technique: Raindrop effect
 
+#### Why raindrop effect is beneficial to final project
+>I'm targeting the'Saint Georges majeur au crepuscule' by Claude Monet as the final project. Since this artwork pictures a colorful lake and it looks like rain falls on the lake, drawing raindrops will make the final project look more real and immersive. Here is a picture of the artwork.
+![The image of Saint Georges majeur au crepuscule by Monet](readmeimages/Monet.jpg)
+
 **Examples** 
 *Two examples are used to illustrate the raindrop effect.* 
 
